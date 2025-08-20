@@ -1,7 +1,7 @@
 # avAItar
 
 ## Mission
-The time has finally come when smart glasses are in demand. But in addition to corporate smart glasses, there should also be open-source devices - for those who value their privacy.
+The time has finally come when smart glasses are in demand. But in addition to corporate smart glasses, there should also be open-source eyewear - for those who value their privacy.
 
 ## What avAItar is?
 AI-Powered computer that can act in physical world in wearable and autonomos/robotic modes.
