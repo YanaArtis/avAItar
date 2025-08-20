@@ -6,7 +6,7 @@ The time has finally come when smart glasses are in demand. But in addition to c
 ## What avAItar is?
 AI-Powered computer that can act in physical world in wearable and autonomos/robotic modes.
 List of **avAItar** project (formerly known as **AR-Go**) units in the version of 2025:
- - **Head-Mounted Display with DIY Wireless Module** (Eyetop Centra, Xreal, Epson Moverio or another suitable eyewear) for connection to custom CPU unit, smartphone or your personal cloud;
+ - **Head-Mounted Display with DIY Wireless Module** (Eyetop Centra + Raspberry Pi Zero, Xreal, Epson Moverio or another suitable eyewear) for connection to custom CPU unit, smartphone or your personal cloud;
  - **CPU Unit** (smartphone, or Raspberry Pi, or another suitable device)
  - **Head-Mounted Camera**
  - **Remote Control Unit** (smartphone, bluetooth keyboard, etc.)
