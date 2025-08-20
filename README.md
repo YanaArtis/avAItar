@@ -35,7 +35,7 @@ However, it was not possible to immediately turn the N900 into a wearable comput
 ![AR-Go, the wearable computer.](https://habrastorage.org/r/w1560/storage2/43d/d87/728/43dd87728df13ed3f7279a6b45310554.png)\
 _AR-Go, the wearable computer: Eyetop Centra HMD, Nokia N900 (computational block), headband with USB webcam, yet another Nokia N900 as remote control._
 
-In the winter of 2010-2011 we went on "field tests" with professional biathletes to test whether the prototype I created would be convenient as a ski simulator. It turned out to be quite convenient and useful!
+In the winter of 2010-2011 we went on "field tests" with professional biathletes to test whether the prototype I created would be convenient as a ski training system. It turned out to be quite convenient and useful!
 
 ![Biathlete on the training session with AR-Go.](https://habrastorage.org/r/w1560/storage2/990/6a4/72c/9906a472cc4b6f60085345f5cf16f79c.jpg)
 ![Biathlete on the training session with AR-Go.](https://habrastorage.org/r/w1560/storage2/504/08b/c3e/50408bc3e43120a53119498bac44d24b.jpg)\
