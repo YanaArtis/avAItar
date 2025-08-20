@@ -13,7 +13,7 @@ List of **avAItar** project (formerly known as **AR-Go**) units in the version o
  - **Robotic Unit** (i.e. iRobot Create) permitting the system to act as autonome agent
 
 ## Inception
-From 2007 to 2012, I worked on a pet project AR-Go - developing a wearable computer. At first, it seemed like nothing complicated: a laptop in a backpack, a display-glasses on your nose - and here you have a wearable computer, allowing you to have fun with augmented reality and other interesting features. The main thing is to choose the right hardware - and off you go! But it turned out to be not so simple.
+From 2007 to 2012, inspired by Steve Mann projects, I worked on a pet project AR-Go - developing a wearable computer. At first, it seemed like nothing complicated: a laptop in a backpack, a display-glasses on your nose - and here you have a wearable computer, allowing you to have fun with augmented reality and other interesting features. The main thing is to choose the right hardware - and off you go! But it turned out to be not so simple.
 
 After a lot of trials and fails, I settled on the discontinued (but still available on eBay) Eyetop Centra monocular as my head-mounted display.
 
