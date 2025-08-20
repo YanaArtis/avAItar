@@ -47,6 +47,8 @@ Having made sure that AR-Go can be used as a sports computer, I started writing 
 
 In the end, I managed to make a fully functional navigator. The program can display maps (taken from Google Maps or OpenStreetMap, cached to minimize traffic), positions them by the current position, displays the time, current speed, draws a compass. The navigator can also record the current route, save it to a file, display the current route and the target route leading to the desired destination.
 
+[Video of AR-Go testing on a motorcycle](https://youtu.be/9U4JG8KWQD4).
+
 ![AR-Go'naut in full gear (head-mounted camera, HMD eyewear, wearable computer in bag, remote control in hands. 2012)](https://habrastorage.org/r/w1560/storage2/61a/771/5b1/61a7715b17eb90abeaaed67248742751.jpg)\
 _AR-Go'naut in full gear (head-mounted camera, HMD eyewear, wearable computer in bag, remote control in hands. 2012_
 
